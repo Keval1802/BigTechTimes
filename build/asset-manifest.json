@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38e8261f.css",
+    "main.js": "/static/js/main.9f54a547.js",
+    "static/media/circuit-pattern.jpg": "/static/media/circuit-pattern.0cb166e403a884c9ed92.jpg",
+    "static/media/jinish.jpg": "/static/media/jinish.bb906aef487142b41ffc.jpg",
+    "static/media/ml_deployment.jpg": "/static/media/ml_deployment.ea84dcc5f7080d2e3ec4.jpg",
+    "static/media/ml_implementation.jpg": "/static/media/ml_implementation.e396d195516cbeb96611.jpg",
+    "static/media/logo169.jpg": "/static/media/logo169.e54da43eead2adeaf3bb.jpg",
+    "static/media/ai-dev.jpg": "/static/media/ai-dev.6cc3d6e10d1851adfcc5.jpg",
+    "static/media/python_ai.jpg": "/static/media/python_ai.896b79dbbd94d088b9a2.jpg",
+    "static/media/ai_engineering.jpg": "/static/media/ai_engineering.3bbafacbb7c4beceec36.jpg",
+    "index.html": "/index.html",
+    "main.38e8261f.css.map": "/static/css/main.38e8261f.css.map",
+    "main.9f54a547.js.map": "/static/js/main.9f54a547.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38e8261f.css",
+    "static/js/main.9f54a547.js"
+  ]
+}
